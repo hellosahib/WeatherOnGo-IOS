@@ -1,0 +1,28 @@
+WeatherOnGo
+
+Working: 
+This is an Weather based App where User Enters name of City and he/she gets Weather Updates for That moment as well as Weather Forecast For next 7 days too.
+The background image in mainView is dynamic according to Day of Time you are using app
+Don't let your App work without internet connectivity or YOU WILL HANDLE IT
+
+API's Used:
+OpenWeather API  - For Current Weather
+DarkSky API - For Weather Forecast
+
+*API Keys are present in the app itself , but their working is not guaranteed 
+
+How To Open APP:
+Get an MacBook with Xcode installed.
+Open the project and select simulator of your choice .
+Now just click on Play Button and you are Good to Go.
+
+TabBar Functionality:
+
+Most Recent:
+It Shows the Recent Weather Update of City Selected
+
+More:
+It Will show the Weather Forecast for Selected city for next 7 days
+
+
+
